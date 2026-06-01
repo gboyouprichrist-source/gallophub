@@ -1,0 +1,475 @@
+# Copyright (C) 2024 GallopHub
+# This file is distributed under the same license as the GallopHub package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GallopHub 1.0.0\n"
+"Report-Msgid-Bugs-To: contact@gallophub.es\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: GallopHub\n"
+"X-Domain: gallophub\n"
+
+#: header.php:15
+msgid "Venta directa · 30+ caballos disponibles · España · Entrega Europa"
+msgstr ""
+
+#: header.php:46
+msgid "Todos los caballos"
+msgstr ""
+
+#: header.php:47
+msgid "Dressage"
+msgstr ""
+
+#: header.php:48
+msgid "Saut"
+msgstr ""
+
+#: header.php:49
+msgid "Western"
+msgstr ""
+
+#: header.php:50
+msgid "Loisirs"
+msgstr ""
+
+#: header.php:51
+msgid "Poneys"
+msgstr ""
+
+#: header.php:67
+msgid "Boutique"
+msgstr ""
+
+#: header.php:143
+msgid "Contactar"
+msgstr ""
+
+#: footer.php
+msgid "Vente de chevaux de sport — Espagne · Livraison Europe"
+msgstr ""
+
+#: footer.php
+msgid "Chevaux"
+msgstr ""
+
+#: footer.php
+msgid "GallopHub"
+msgstr ""
+
+#: footer.php
+msgid "À propos"
+msgstr ""
+
+#: footer.php
+msgid "Services"
+msgstr ""
+
+#: footer.php
+msgid "Contact"
+msgstr ""
+
+#: footer.php
+msgid "Informations légales"
+msgstr ""
+
+#: footer.php
+msgid "Conditions générales de vente"
+msgstr ""
+
+#: footer.php
+msgid "Mentions légales"
+msgstr ""
+
+#: footer.php
+msgid "Politique de confidentialité"
+msgstr ""
+
+#: footer.php
+msgid "Politique de retour"
+msgstr ""
+
+#: footer.php
+msgid "GallopHub — Tous droits réservés"
+msgstr ""
+
+#: footer.php
+msgid "Confidentialité"
+msgstr ""
+
+#: footer.php
+msgid "Bonjour, je suis intéressé(e) par un cheval sur GallopHub."
+msgstr ""
+
+#: footer.php
+msgid "Accueil"
+msgstr ""
+
+#: single-horse.php
+msgid "Race"
+msgstr ""
+
+#: single-horse.php
+msgid "Âge"
+msgstr ""
+
+#: single-horse.php
+msgid "ans"
+msgstr ""
+
+#: single-horse.php
+msgid "Sexe"
+msgstr ""
+
+#: single-horse.php
+msgid "Taille"
+msgstr ""
+
+#: single-horse.php
+msgid "Robe"
+msgstr ""
+
+#: single-horse.php
+msgid "Pedigree"
+msgstr ""
+
+#: single-horse.php
+msgid "Discipline"
+msgstr ""
+
+#: single-horse.php
+msgid "Niveau"
+msgstr ""
+
+#: single-horse.php
+msgid "Passeport"
+msgstr ""
+
+#: single-horse.php
+msgid "Localisation"
+msgstr ""
+
+#: single-horse.php
+msgid "Description"
+msgstr ""
+
+#: single-horse.php
+msgid "Livraison Europe : 5–15 jours ouvrés"
+msgstr ""
+
+#: single-horse.php
+msgid "Paiement : virement SEPA · Stripe · PayPal"
+msgstr ""
+
+#: single-horse.php
+msgid "Politique de retour"
+msgstr ""
+
+#: single-horse.php
+msgid "— Négociable"
+msgstr ""
+
+#: single-horse.php
+msgid "Prix sur demande"
+msgstr ""
+
+#: single-horse.php
+msgid "Contacter via WhatsApp"
+msgstr ""
+
+#: single-horse.php
+msgid "Partager"
+msgstr ""
+
+#: single-horse.php
+msgid "Envoyer un message"
+msgstr ""
+
+#: single-horse.php
+msgid "Votre nom *"
+msgstr ""
+
+#: single-horse.php
+msgid "Email *"
+msgstr ""
+
+#: single-horse.php
+msgid "Téléphone"
+msgstr ""
+
+#: single-horse.php
+msgid "Message *"
+msgstr ""
+
+#: single-horse.php
+msgid "Bonjour, je suis intéressé(e) par le cheval %s. Pouvez-vous me donner plus d'informations ?"
+msgstr ""
+
+#: single-horse.php
+msgid "Envoyer le message"
+msgstr ""
+
+#: single-horse.php
+msgid "Chevaux similaires"
+msgstr ""
+
+#: archive-horse.php
+msgid "Caballos en venta — GallopHub"
+msgstr ""
+
+#: archive-horse.php
+msgid "Más de 30 caballos disponibles. Filtra por disciplina, raza, sexo, precio. Entrega en toda Europa."
+msgstr ""
+
+#: archive-horse.php
+msgid "Caballos en venta"
+msgstr ""
+
+#: archive-horse.php
+msgid "30+ caballos disponibles · Todas las razas · Entrega en Europa"
+msgstr ""
+
+#: archive-horse.php
+msgid "%d cheval trouvé"
+msgid_plural "%d chevaux trouvés"
+msgstr[0] ""
+msgstr[1] ""
+
+#: archive-horse.php
+msgid "Plus récents"
+msgstr ""
+
+#: archive-horse.php
+msgid "Prix croissant"
+msgstr ""
+
+#: archive-horse.php
+msgid "Prix décroissant"
+msgstr ""
+
+#: archive-horse.php
+msgid "Plus jeunes"
+msgstr ""
+
+#: archive-horse.php
+msgid "Filtros"
+msgstr ""
+
+#: archive-horse.php
+msgid "Solo disponibles"
+msgstr ""
+
+#: archive-horse.php
+msgid "Statut"
+msgstr ""
+
+#: archive-horse.php
+msgid "Tous"
+msgstr ""
+
+#: archive-horse.php
+msgid "Disponible"
+msgstr ""
+
+#: archive-horse.php
+msgid "Réservé"
+msgstr ""
+
+#: archive-horse.php
+msgid "Vendu"
+msgstr ""
+
+#: archive-horse.php
+msgid "Disciplina"
+msgstr ""
+
+#: archive-horse.php
+msgid "Raza"
+msgstr ""
+
+#: archive-horse.php
+msgid "Todas las razas"
+msgstr ""
+
+#: archive-horse.php
+msgid "Sexo"
+msgstr ""
+
+#: archive-horse.php
+msgid "Todos"
+msgstr ""
+
+#: archive-horse.php
+msgid "Jument"
+msgstr ""
+
+#: archive-horse.php
+msgid "Étalon"
+msgstr ""
+
+#: archive-horse.php
+msgid "Hongre"
+msgstr ""
+
+#: archive-horse.php
+msgid "Poney"
+msgstr ""
+
+#: archive-horse.php
+msgid "País"
+msgstr ""
+
+#: archive-horse.php
+msgid "Todos los países"
+msgstr ""
+
+#: archive-horse.php
+msgid "Precio (€)"
+msgstr ""
+
+#: archive-horse.php
+msgid "Edad"
+msgstr ""
+
+#: archive-horse.php
+msgid "Limpiar todo"
+msgstr ""
+
+#: archive-horse.php
+msgid "Appliquer les filtres"
+msgstr ""
+
+#: archive-horse.php
+msgid "Liste des chevaux"
+msgstr ""
+
+#: archive-horse.php
+msgid "Aucun cheval pour le moment."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Le nom est requis (minimum 2 caractères)."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Adresse email invalide."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Le message est trop court (minimum 10 caractères)."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Trop de tentatives. Veuillez patienter."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Aucun cheval trouvé avec ces filtres."
+msgstr ""
+
+#: inc/ajax.php
+msgid "Réinitialiser les filtres"
+msgstr ""
+
+#: inc/ajax.php
+msgid "[GallopHub] Demande pour : %s"
+msgstr ""
+
+#: inc/ajax.php
+msgid "[GallopHub] Nouveau message de contact"
+msgstr ""
+
+#: inc/ajax.php
+msgid "Nom : %s\nEmail : %s\nTéléphone : %s\nSujet : %s\n\nMessage :\n%s"
+msgstr ""
+
+#: inc/ajax.php
+msgid "Cheval : %s\n%s"
+msgstr ""
+
+#: inc/ajax.php
+msgid "Votre message a bien été reçu — GallopHub"
+msgstr ""
+
+#: inc/ajax.php
+msgid "Bonjour %s,\n\nNous avons bien reçu votre message et vous répondrons dans les plus brefs délais.\n\nL'équipe GallopHub\ncontact@gallophub.es\nhttps://gallophub.es"
+msgstr ""
+
+#: page-shop.php
+msgid "Boutique équestre — GallopHub"
+msgstr ""
+
+#: page-shop.php
+msgid "Accessoires, équipements et services équestres. Selles, brides, couvertures, soins — livraison en Europe."
+msgstr ""
+
+#: page-shop.php
+msgid "Boutique équestre"
+msgstr ""
+
+#: page-shop.php
+msgid "Accessoires, équipements, soins — sélectionnés par des cavaliers professionnels"
+msgstr ""
+
+#: page-shop.php
+msgid "Voir tous les produits"
+msgstr ""
+
+#: page-shop.php
+msgid "Nos catégories"
+msgstr ""
+
+#: page-shop.php
+msgid "Sellerie"
+msgstr ""
+
+#: page-shop.php
+msgid "Soins"
+msgstr ""
+
+#: page-shop.php
+msgid "Vêtements"
+msgstr ""
+
+#: page-shop.php
+msgid "Accessoires"
+msgstr ""
+
+#: page-shop.php
+msgid "Produits à la une"
+msgstr ""
+
+#: page-shop.php
+msgid "Produits bientôt disponibles."
+msgstr ""
+
+#: page-shop.php
+msgid "Livraison Europe"
+msgstr ""
+
+#: page-shop.php
+msgid "3–7 jours ouvrés"
+msgstr ""
+
+#: page-shop.php
+msgid "Retour 30 jours"
+msgstr ""
+
+#: page-shop.php
+msgid "Remboursement garanti"
+msgstr ""
+
+#: page-shop.php
+msgid "Paiement sécurisé"
+msgstr ""
+
+#: page-shop.php
+msgid "SSL · Stripe · PayPal"
+msgstr ""

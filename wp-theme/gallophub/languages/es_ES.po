@@ -1,0 +1,378 @@
+# Spanish (Spain) translation for GallopHub
+# Copyright (C) 2024 GallopHub
+msgid ""
+msgstr ""
+"Project-Id-Version: GallopHub 1.0.0\n"
+"Report-Msgid-Bugs-To: contact@gallophub.es\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: GallopHub <contact@gallophub.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: gallophub\n"
+
+msgid "Venta directa · 30+ caballos disponibles · España · Entrega Europa"
+msgstr "Venta directa · 30+ caballos disponibles · España · Entrega Europa"
+
+msgid "Todos los caballos"
+msgstr "Todos los caballos"
+
+msgid "Dressage"
+msgstr "Doma"
+
+msgid "Saut"
+msgstr "Salto"
+
+msgid "Western"
+msgstr "Western"
+
+msgid "Loisirs"
+msgstr "Ocio"
+
+msgid "Poneys"
+msgstr "Ponis"
+
+msgid "Boutique"
+msgstr "Tienda"
+
+msgid "Contactar"
+msgstr "Contactar"
+
+msgid "Vente de chevaux de sport — Espagne · Livraison Europe"
+msgstr "Venta de caballos de deporte — España · Entrega Europa"
+
+msgid "Chevaux"
+msgstr "Caballos"
+
+msgid "GallopHub"
+msgstr "GallopHub"
+
+msgid "À propos"
+msgstr "Sobre nosotros"
+
+msgid "Services"
+msgstr "Servicios"
+
+msgid "Contact"
+msgstr "Contacto"
+
+msgid "Informations légales"
+msgstr "Información legal"
+
+msgid "Conditions générales de vente"
+msgstr "Condiciones generales de venta"
+
+msgid "Mentions légales"
+msgstr "Aviso legal"
+
+msgid "Politique de confidentialité"
+msgstr "Política de privacidad"
+
+msgid "Politique de retour"
+msgstr "Política de devolución"
+
+msgid "GallopHub — Tous droits réservés"
+msgstr "GallopHub — Todos los derechos reservados"
+
+msgid "Confidentialité"
+msgstr "Privacidad"
+
+msgid "Bonjour, je suis intéressé(e) par un cheval sur GallopHub."
+msgstr "Hola, estoy interesado/a en un caballo en GallopHub."
+
+msgid "Accueil"
+msgstr "Inicio"
+
+msgid "Race"
+msgstr "Raza"
+
+msgid "Âge"
+msgstr "Edad"
+
+msgid "ans"
+msgstr "años"
+
+msgid "Sexe"
+msgstr "Sexo"
+
+msgid "Taille"
+msgstr "Alzada"
+
+msgid "Robe"
+msgstr "Capa"
+
+msgid "Pedigree"
+msgstr "Pedigree"
+
+msgid "Discipline"
+msgstr "Disciplina"
+
+msgid "Niveau"
+msgstr "Nivel"
+
+msgid "Passeport"
+msgstr "Pasaporte"
+
+msgid "Localisation"
+msgstr "Ubicación"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Livraison Europe : 5–15 jours ouvrés"
+msgstr "Entrega Europa: 5–15 días hábiles"
+
+msgid "Paiement : virement SEPA · Stripe · PayPal"
+msgstr "Pago: transferencia SEPA · Stripe · PayPal"
+
+msgid "— Négociable"
+msgstr "— Negociable"
+
+msgid "Prix sur demande"
+msgstr "Precio a consultar"
+
+msgid "Contacter via WhatsApp"
+msgstr "Contactar por WhatsApp"
+
+msgid "Partager"
+msgstr "Compartir"
+
+msgid "Envoyer un message"
+msgstr "Enviar mensaje"
+
+msgid "Votre nom *"
+msgstr "Su nombre *"
+
+msgid "Email *"
+msgstr "Email *"
+
+msgid "Téléphone"
+msgstr "Teléfono"
+
+msgid "Message *"
+msgstr "Mensaje *"
+
+msgid "Bonjour, je suis intéressé(e) par le cheval %s. Pouvez-vous me donner plus d'informations ?"
+msgstr "Hola, estoy interesado/a en el caballo %s. ¿Podría darme más información?"
+
+msgid "Envoyer le message"
+msgstr "Enviar mensaje"
+
+msgid "Chevaux similaires"
+msgstr "Caballos similares"
+
+msgid "Caballos en venta — GallopHub"
+msgstr "Caballos en venta — GallopHub"
+
+msgid "Más de 30 caballos disponibles. Filtra por disciplina, raza, sexo, precio. Entrega en toda Europa."
+msgstr "Más de 30 caballos disponibles. Filtra por disciplina, raza, sexo, precio. Entrega en toda Europa."
+
+msgid "Caballos en venta"
+msgstr "Caballos en venta"
+
+msgid "30+ caballos disponibles · Todas las razas · Entrega en Europa"
+msgstr "30+ caballos disponibles · Todas las razas · Entrega en Europa"
+
+msgid "%d cheval trouvé"
+msgid_plural "%d chevaux trouvés"
+msgstr[0] "%d caballo encontrado"
+msgstr[1] "%d caballos encontrados"
+
+msgid "Plus récents"
+msgstr "Más recientes"
+
+msgid "Prix croissant"
+msgstr "Precio ascendente"
+
+msgid "Prix décroissant"
+msgstr "Precio descendente"
+
+msgid "Plus jeunes"
+msgstr "Más jóvenes"
+
+msgid "Filtros"
+msgstr "Filtros"
+
+msgid "Solo disponibles"
+msgstr "Solo disponibles"
+
+msgid "Statut"
+msgstr "Estado"
+
+msgid "Tous"
+msgstr "Todos"
+
+msgid "Disponible"
+msgstr "Disponible"
+
+msgid "Réservé"
+msgstr "Reservado"
+
+msgid "Vendu"
+msgstr "Vendido"
+
+msgid "Disciplina"
+msgstr "Disciplina"
+
+msgid "Raza"
+msgstr "Raza"
+
+msgid "Todas las razas"
+msgstr "Todas las razas"
+
+msgid "Sexo"
+msgstr "Sexo"
+
+msgid "Todos"
+msgstr "Todos"
+
+msgid "Jument"
+msgstr "Yegua"
+
+msgid "Étalon"
+msgstr "Semental"
+
+msgid "Hongre"
+msgstr "Caballo castrado"
+
+msgid "Poney"
+msgstr "Poni"
+
+msgid "País"
+msgstr "País"
+
+msgid "Todos los países"
+msgstr "Todos los países"
+
+msgid "Precio (€)"
+msgstr "Precio (€)"
+
+msgid "Edad"
+msgstr "Edad"
+
+msgid "Limpiar todo"
+msgstr "Limpiar todo"
+
+msgid "Appliquer les filtres"
+msgstr "Aplicar filtros"
+
+msgid "Aucun cheval pour le moment."
+msgstr "Ningún caballo por el momento."
+
+msgid "Le nom est requis (minimum 2 caractères)."
+msgstr "El nombre es obligatorio (mínimo 2 caracteres)."
+
+msgid "Adresse email invalide."
+msgstr "Dirección de email inválida."
+
+msgid "Le message est trop court (minimum 10 caractères)."
+msgstr "El mensaje es demasiado corto (mínimo 10 caracteres)."
+
+msgid "Trop de tentatives. Veuillez patienter."
+msgstr "Demasiados intentos. Por favor, espere."
+
+msgid "Aucun cheval trouvé avec ces filtres."
+msgstr "Ningún caballo encontrado con estos filtros."
+
+msgid "Réinitialiser les filtres"
+msgstr "Restablecer filtros"
+
+msgid "[GallopHub] Demande pour : %s"
+msgstr "[GallopHub] Solicitud para: %s"
+
+msgid "[GallopHub] Nouveau message de contact"
+msgstr "[GallopHub] Nuevo mensaje de contacto"
+
+msgid "Votre message a bien été reçu — GallopHub"
+msgstr "Su mensaje ha sido recibido — GallopHub"
+
+msgid "Boutique équestre — GallopHub"
+msgstr "Tienda ecuestre — GallopHub"
+
+msgid "Boutique équestre"
+msgstr "Tienda ecuestre"
+
+msgid "Accessoires, équipements, soins — sélectionnés par des cavaliers professionnels"
+msgstr "Accesorios, equipos, cuidados — seleccionados por jinetes profesionales"
+
+msgid "Voir tous les produits"
+msgstr "Ver todos los productos"
+
+msgid "Nos catégories"
+msgstr "Nuestras categorías"
+
+msgid "Sellerie"
+msgstr "Guarnicionería"
+
+msgid "Soins"
+msgstr "Cuidados"
+
+msgid "Vêtements"
+msgstr "Ropa"
+
+msgid "Accessoires"
+msgstr "Accesorios"
+
+msgid "Produits à la une"
+msgstr "Productos destacados"
+
+msgid "Produits bientôt disponibles."
+msgstr "Productos disponibles próximamente."
+
+msgid "Livraison Europe"
+msgstr "Entrega Europa"
+
+msgid "3–7 jours ouvrés"
+msgstr "3–7 días hábiles"
+
+msgid "Retour 30 jours"
+msgstr "Devolución 30 días"
+
+msgid "Remboursement garanti"
+msgstr "Reembolso garantizado"
+
+msgid "Paiement sécurisé"
+msgstr "Pago seguro"
+
+msgid "SSL · Stripe · PayPal"
+msgstr "SSL · Stripe · PayPal"
+
+msgid "Panier"
+msgstr "Carrito"
+
+msgid "Produit"
+msgstr "Producto"
+
+msgid "Prix"
+msgstr "Precio"
+
+msgid "Quantité"
+msgstr "Cantidad"
+
+msgid "Sous-total"
+msgstr "Subtotal"
+
+msgid "Supprimer cet article"
+msgstr "Eliminar este artículo"
+
+msgid "Code promo"
+msgstr "Código promocional"
+
+msgid "Appliquer"
+msgstr "Aplicar"
+
+msgid "Mettre à jour le panier"
+msgstr "Actualizar carrito"
+
+msgid "Commande"
+msgstr "Pedido"
+
+msgid "Votre commande"
+msgstr "Su pedido"
+
+msgid "Bonjour, %s"
+msgstr "Hola, %s"
