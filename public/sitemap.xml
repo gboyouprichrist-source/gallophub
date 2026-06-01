@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://gallophub.es/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://gallophub.es/horses</loc><priority>0.9</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://gallophub.es/about</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://gallophub.es/contact</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://gallophub.es/faq</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://gallophub.es/services</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://gallophub.es/shop</loc><priority>0.7</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://gallophub.es/cgv</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://gallophub.es/politique-de-retour</loc><priority>0.5</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://gallophub.es/mentions-legales</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://gallophub.es/confidentialite</loc><priority>0.3</priority><changefreq>yearly</changefreq></url>
+</urlset>
